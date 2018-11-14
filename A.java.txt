@@ -2,4 +2,5 @@ Class A{
 Void method()
 void method1()
 void sub(){}
+int x =12;
 }
