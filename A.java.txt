@@ -1,5 +1,10 @@
 Class A{
 Void method()
 void method1()
+<<<<<<< HEAD
 //Feature-5
+=======
+void sub(){}
+int x =12;
+>>>>>>> e8594fa19ed85b0bbf77f6cf955e6b1ae568887a
 }
